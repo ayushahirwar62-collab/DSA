@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayushahirwar62-collab/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushahirwar62-collab/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayushahirwar62-collab/DSA/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/ayushahirwar62-collab/DSA/tree/master/0066-plus-one) |
@@ -27,6 +28,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayushahirwar62-collab/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ayushahirwar62-collab/DSA/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
