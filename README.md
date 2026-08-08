@@ -48,4 +48,12 @@
 | [0007-reverse-integer](https://github.com/ayushahirwar62-collab/DSA/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/ayushahirwar62-collab/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ayushahirwar62-collab/DSA/tree/master/0189-rotate-array) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ayushahirwar62-collab/DSA/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ayushahirwar62-collab/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
